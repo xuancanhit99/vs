@@ -1,5 +1,4 @@
 #include <iostream>
-#define TEST 1000
 #define MAX 100
 using namespace std;
 
