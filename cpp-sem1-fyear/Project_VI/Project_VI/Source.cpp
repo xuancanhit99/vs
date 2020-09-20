@@ -1,5 +1,6 @@
 #include <cmath>
 #include <iostream>
+#define test 100
 using namespace std;
 
 int main() {
